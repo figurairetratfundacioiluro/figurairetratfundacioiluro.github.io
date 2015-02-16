@@ -1,0 +1,53 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+
+excerpt_separator: <!--more-->
+
+# Permalinks
+permalink:        pretty
+
+# Site settings
+title: 'Figura i Retrat'
+email: rgil@oxygen.cat
+description: "La figura i el retrat en el fons d'Art de la Fundació Iluro, on també hi té estudi, amb una llarga trajectòria artística."
+subdescription: "La figura i el retrat en el fons d'Art de la Fundació Iluro"
+baseurl:
+url: "https://figurairetratfundacioiluro.github.io"
+logoWeb: /images/touch/ms-touch-icon-144x144-precomposed.png 
+faviconWeb: favicon.png
+twitter_username: freecates
+github_username:  freecates
+twitter:          artinpocket
+
+sass:
+ style: compressed
+
+author:
+  name:           'Ramon Gil'
+  url:            https://twitter.com/freecates
+
+# Build settings
+markdown: kramdown
+
+#Custom vars
+portfoli-author:
+ name: "Figura i Retrat"
+ url: https://figurairetratfundacioiluro.github.io/
+organitza:
+  artinpocket:
+    description:  "Artinpocket - organitzadors de Figura i Retrat"
+    logo: "artinpocket-organitzadors-barcelona-digital-art-footer.jpg"
+    url: http://www.artinpocket.cat/
+
+colabora:
+  oxygen:
+    description:  "Oxygen - Partner tecnològic de Figura i Retrat"
+    logo: "oxygen-organitzadors-barcelona-digital-art-footer.jpg"
+    url:  http://www.oxygen.cat/
+
+sale-end: '2014-12-31T00:00:00+01:00'
+
+bower_components: 
+  baseurl: /bower_components/

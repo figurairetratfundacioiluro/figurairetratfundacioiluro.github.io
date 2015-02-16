@@ -1,0 +1,1739 @@
+---
+  - 
+    title: "Els miralls. Figura i Retrat"
+    id: 3976
+    aspect_ratio: "9-16"
+    created_at: "2015-01-16T13:49:25Z"
+    updated_at: "2015-01-17T11:27:07Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/els-miralls-jordi-pages/"
+    sku: "W860"
+    price: "550.00"
+    regular_price: "550.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">550,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "70"
+      height: "50"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Sèrie Gabriel Ferrater.</p>\n<p>Els miralls (2012)</p>\n<p>Acrílic i llapis.</p>\n"
+    short_description: "<p>Sèrie Gabriel Ferrater (2012).</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2914
+      - 2826
+      - 2406
+      - 2314
+      - 4014
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Figura i Retrat"
+    images: 
+      - 
+        id: 3977
+        created_at: "2015-01-16T13:51:45Z"
+        updated_at: "2015-01-16T13:51:45Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/3.Jordi-Pagès-.-Collages-Sèrie-Gabriel-Ferrater.-Els-miralls.jpeg"
+        title: "3.Jordi-Pagès .-Collage(s)  Sèrie Gabriel Ferrater.  Els miralls"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/3.Jordi-Pagès-.-Collages-Sèrie-Gabriel-Ferrater.-Els-miralls.jpeg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Architettura. Figura i Retrat"
+    id: 3974
+    aspect_ratio: "3-4"
+    created_at: "2015-01-16T13:45:17Z"
+    updated_at: "2015-01-16T13:49:04Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/architettura-jordi-pages/"
+    sku: "W859"
+    price: "350.00"
+    regular_price: "350.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">350,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "40"
+      height: "50"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Sèrie Gabriel Ferrater .</p>\n<p>Architettura.</p>\n<p>Llapis d'oli sobre cartroné.</p>\n"
+    short_description: "<p>Sèrie Gabriel Ferrater (2012).</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2558
+      - 2925
+      - 2342
+      - 2514
+      - 2286
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Figura i Retrat"
+    images: 
+      - 
+        id: 3975
+        created_at: "2015-01-16T13:46:53Z"
+        updated_at: "2015-01-16T13:46:53Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/2.-Jordi-Pagès-Collages-Sèrie-Gabriel-Ferrater-Architettura.jpeg"
+        title: "2. Jordi-Pagès-  Collage(s)-Sèrie Gabriel-Ferrater- Architettura"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/2.-Jordi-Pagès-Collages-Sèrie-Gabriel-Ferrater-Architettura.jpeg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Les dones. Figura i Retrat"
+    id: 3972
+    aspect_ratio: "3-4"
+    created_at: "2015-01-16T13:37:03Z"
+    updated_at: "2015-01-16T13:45:02Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/les-dones-jordi-pages/"
+    sku: "W858"
+    price: "550.00"
+    regular_price: "550.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">550,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "70"
+      height: "50"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Sèrie Gabriel Ferrater (2012).</p>\n<p>Les dones.</p>\n<p>Acrílic amb llapis d'oli.</p>\n"
+    short_description: "<p>Sèrie Gabriel Ferrater (2012).</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2892
+      - 2958
+      - 2334
+      - 3750
+      - 2828
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Figura i Retrat"
+    images: 
+      - 
+        id: 3973
+        created_at: "2015-01-16T13:44:22Z"
+        updated_at: "2015-01-16T13:44:22Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/1.Jordi-Pagès-Collages-Sèrie-Gabriel-Ferrater-Les-dones.-.jpeg"
+        title: "1.Jordi-Pagès- Collage(s)-Sèrie Gabriel-Ferrater-Les-dones."
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/1.Jordi-Pagès-Collages-Sèrie-Gabriel-Ferrater-Les-dones.-.jpeg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "En la silent i closa nit rocosa II. Figura i Retrat"
+    id: 3966
+    aspect_ratio: "3-4"
+    created_at: "2015-01-16T13:26:53Z"
+    updated_at: "2015-01-16T13:28:58Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/en-la-silent-i-closa-nit-rocosa-ii-jordi-pages/"
+    sku: "W855"
+    price: "350.00"
+    regular_price: "350.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">350,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "40"
+      height: "50"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>SÈRIE JOAN VINYOLI (2012)</p>\n<p>Tècnica mitxa llapis d'oli sobre cartroné.</p>\n"
+    short_description: "<p>Sèrie a Joan Vinyoli.</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 3884
+      - 2376
+      - 3948
+      - 2570
+      - 2910
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Figura i Retrat"
+    images: 
+      - 
+        id: 3967
+        created_at: "2015-01-16T13:28:15Z"
+        updated_at: "2015-01-16T13:28:15Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/3.-Jordi-Pagés-Collage-Cap-al-no-res.jpg"
+        title: "3. Jordi-Pagés-Collage-Cap-al-no-res"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/3.-Jordi-Pagés-Collage-Cap-al-no-res.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "En la silent i closa nit rocosa. Figura i Retrat"
+    id: 3964
+    aspect_ratio: "3-4"
+    created_at: "2015-01-16T13:24:47Z"
+    updated_at: "2015-01-16T13:26:42Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/en-la-silent-i-closa-nit-rocosa-jordi-pages/"
+    sku: "W854"
+    price: "350.00"
+    regular_price: "350.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">350,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "40"
+      height: "50"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Sèrie a Joan Vinyoli: Tot és ara o res  (2014)</p>\n<p>EN LA SILENT I CLOSA NIT ROCOSA</p>\n<p>Collage. Acrílic i llapis d'oli.</p>\n"
+    short_description: "<p>Sèrie a Joan Vinyoli: Tot és ara o res  (2014)</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2780
+      - 2554
+      - 2360
+      - 3944
+      - 2816
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Figura i Retrat"
+    images: 
+      - 
+        id: 3965
+        created_at: "2015-01-16T13:26:16Z"
+        updated_at: "2015-01-16T13:26:16Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/2.-Jordi-Pagés-Collage-En-la-silent-i-la-closa-nit-rocosa.jpg"
+        title: "2. Jordi-Pagés-Collage-En-la-silent-i-la-closa-nit-rocosa"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/2.-Jordi-Pagés-Collage-En-la-silent-i-la-closa-nit-rocosa.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Es poden fer moltes coses. Figura i Retrat"
+    id: 3962
+    aspect_ratio: "9-16"
+    created_at: "2015-01-16T13:19:26Z"
+    updated_at: "2015-01-16T13:24:36Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/es-poden-fer-moltes-coses-jordi-pages/"
+    sku: "W853"
+    price: "550.00"
+    regular_price: "550.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">550,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "50"
+      height: "70"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Es poden fer moltes coses,</p>\n<p>que no són res, partint d'aquest principi:</p>\n<p>tot és ara i res.</p>\n<p>Joan Vinyoli</p>\n<p>Tècnica mixta, acrílic i llapis d'oli, sobre cartroné.</p>\n"
+    short_description: "<p>Es poden fer moltes coses,</p>\n<p>que no són res, partint d&#8217;aquest principi:</p>\n<p>tot és ara i res.</p>\n<p>Joan Vinyoli</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2472
+      - 2868
+      - 2996
+      - 2568
+      - 3354
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Figura i Retrat"
+    images: 
+      - 
+        id: 3963
+        created_at: "2015-01-16T13:23:48Z"
+        updated_at: "2015-01-16T13:23:48Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/1.-Jordi-Pagés-Pintura-Collage-Es-poden-fer-moltes-coses.jpg"
+        title: "1. Jordi-Pagés-Pintura-Collage-Es-poden-fer-moltes-coses"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/1.-Jordi-Pagés-Pintura-Collage-Es-poden-fer-moltes-coses.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Versos de platja N/4. Figura i Retrat"
+    id: 3960
+    aspect_ratio: "3-4"
+    created_at: "2015-01-16T13:16:20Z"
+    updated_at: "2015-01-16T13:19:15Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/versos-de-platja-n4-jordi-pages/"
+    sku: "W852"
+    price: "350.00"
+    regular_price: "350.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">350,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "40"
+      height: "50"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Sèrie inspirada en poemes de Núria Busquet.</p>\n<p>Tècnica mixta, acrílic i llapis d'oli.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n"
+    short_description: "<p>Sèrie inspirada en poemes de Núria Busquet.</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 3954
+      - 3878
+      - 2266
+      - 2778
+      - 3001
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Figura i Retrat"
+    images: 
+      - 
+        id: 3961
+        created_at: "2015-01-16T13:18:29Z"
+        updated_at: "2015-01-16T13:18:29Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/9..Jordi-Pagés-Collage-Obrim-el-cos..jpg"
+        title: "9..Jordi-Pagés-Collage-Obrim-el-cos."
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/9..Jordi-Pagés-Collage-Obrim-el-cos..jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Versos de platja N/3. Figura i Retrat"
+    id: 3958
+    aspect_ratio: "3-4"
+    created_at: "2015-01-16T13:14:12Z"
+    updated_at: "2015-01-16T13:15:56Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/versos-de-platja-n3-jordi-pages/"
+    sku: "W851"
+    price: "350.00"
+    regular_price: "350.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">350,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "40"
+      height: "50"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Sèrie inspirada en poemes de Núria Busquet.</p>\n<p>Llapis d'oli sobre cartoné.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n"
+    short_description: "<p>Sèrie inspirada en poemes de Núria Busquet.</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2726
+      - 2348
+      - 2718
+      - 3289
+      - 2538
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Figura i Retrat"
+    images: 
+      - 
+        id: 3959
+        created_at: "2015-01-16T13:15:47Z"
+        updated_at: "2015-01-16T13:15:47Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/8.Jordi-Pagés-Collage-Versos-de-Platja-2.jpg"
+        title: "8.Jordi-Pagés-Collage- Versos de Platja-2"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/8.Jordi-Pagés-Collage-Versos-de-Platja-2.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Versos de platja N/2. Figura i Retrat"
+    id: 3956
+    aspect_ratio: "3-4"
+    created_at: "2015-01-16T09:02:29Z"
+    updated_at: "2015-01-16T09:04:33Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/versos-de-platja-n2-jordi-pages-copiar/"
+    sku: "W850"
+    price: "350.00"
+    regular_price: "350.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">350,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "40"
+      height: "50"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Sèrie inspirada en poemes de Núria Busquet.</p>\n<p>Versos de platja.</p>\n<p>Llapis d'oli sobre cartoné.</p>\n<p>&nbsp;</p>\n"
+    short_description: "<p>Sèrie inspirada en poemes de Núria Busquet.</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2508
+      - 2388
+      - 2932
+      - 2632
+      - 2558
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Figura i Retrat"
+    images: 
+      - 
+        id: 3957
+        created_at: "2015-01-16T09:04:13Z"
+        updated_at: "2015-01-16T09:04:13Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/7.-Jordi-Pagés-Collage-Versos-de-Platja.jpg"
+        title: "7. Jordi-Pagés-Collage-Versos-de-Platja"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/7.-Jordi-Pagés-Collage-Versos-de-Platja.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Versos de platja N/1. Figura i Retrat"
+    id: 3944
+    aspect_ratio: "3-4"
+    created_at: "2015-01-16T08:45:48Z"
+    updated_at: "2015-01-16T08:52:00Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/versos-de-platja-n1-jordi-pages/"
+    sku: "W844"
+    price: "350.00"
+    regular_price: "350.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">350,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "40"
+      height: "50"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Sèrie inspirada en poemes de Núria Busquet .</p>\n"
+    short_description: "<p>Sèrie inspirada en poemes de Núria Busquet .</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2842
+      - 2586
+      - 2776
+      - 2384
+      - 2868
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Figura i Retrat"
+    images: 
+      - 
+        id: 3945
+        created_at: "2015-01-16T08:47:38Z"
+        updated_at: "2015-01-16T08:47:38Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/1.Collage-Jordi-Pagés-Versos-de-platja-N1-.jpg"
+        title: "1.Collage-Jordi-Pagés-Versos-de- platja N:1"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/1.Collage-Jordi-Pagés-Versos-de-platja-N1-.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "De nit omplo el rebost del somni II. Figura i Retrat"
+    id: 3954
+    aspect_ratio: "9-16"
+    created_at: "2015-01-16T09:00:35Z"
+    updated_at: "2015-01-16T09:02:17Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/de-nit-omplo-el-rebost-del-somni-ii-jordi-pages/"
+    sku: "W849"
+    price: "550.00"
+    regular_price: "550.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">550,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "50"
+      height: "70"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Sèrie inspirada en frases de Núria Pujolàs</p>\n<p>'De nit omplo el rebost del somni'.</p>\n<p>Acrílic i llapis d'oli sobre cartroné.</p>\n<p>&nbsp;</p>\n"
+    short_description: "<p>Sèrie inspirada en frases de Núria Pujolàs.</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2994
+      - 3344
+      - 2330
+      - 2316
+      - 2791
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Figura i Retrat"
+    images: 
+      - 
+        id: 3955
+        created_at: "2015-01-16T09:02:05Z"
+        updated_at: "2015-01-16T09:02:05Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/6.Jordi-Pagès-Collage-De-nit-omplo-el-rebost-del-somni.jpg"
+        title: "6.Jordi-Pagès-Collage-De-nit-omplo-el-rebost del-somni"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/6.Jordi-Pagès-Collage-De-nit-omplo-el-rebost-del-somni.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Estimo tant les paraules. Figura i Retrat"
+    id: 3952
+    aspect_ratio: "3-4"
+    created_at: "2015-01-16T08:58:53Z"
+    updated_at: "2015-01-16T09:00:21Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/estimo-tant-les-paraules-jordi-pages/"
+    sku: "W848"
+    price: "550.00"
+    regular_price: "550.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">550,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "50"
+      height: "70"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Sèrie inspirada en frases de Núria Pujolàs</p>\n<p>'Estimo tant les paraules'.</p>\n<p>Acrílic i llapis sobre cartoné.</p>\n"
+    short_description: "<p>Sèrie inspirada en frases de Núria Pujolàs.</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2458
+      - 2873
+      - 3876
+      - 2534
+      - 2811
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Figura i Retrat"
+    images: 
+      - 
+        id: 3953
+        created_at: "2015-01-16T09:00:08Z"
+        updated_at: "2015-01-16T09:00:08Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/5.Jordi-Pagès-Collage-Estimo-tant-les-paraules.jpg"
+        title: "5.Jordi-Pagès-Collage-Estimo tant-les- paraules"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/5.Jordi-Pagès-Collage-Estimo-tant-les-paraules.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Quan em va dir \"per sempre\" vaig veure un cactus. Figura i Retrat"
+    id: 3950
+    aspect_ratio: "3-4"
+    created_at: "2015-01-16T08:56:18Z"
+    updated_at: "2015-01-16T08:58:43Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/quan-em-va-dir-per-sempre-vaig-veure-un-cactus-jordi-pages-copiar/"
+    sku: "W847"
+    price: "550.00"
+    regular_price: "550.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">550,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "50"
+      height: "70"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Figura i Retrat_Collage(s)_sèrie inspirada en frases de Núria Pujolàs.</p>\n<p>\"Quan em va dir 'per sempre' vaig veure un cactus\".</p>\n<p>Acrílíc i llapis sobre cartoné.</p>\n"
+    short_description: "<p>Sèrie inspirada en frases de Núria Pujolàs.</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2382
+      - 2945
+      - 2272
+      - 2784
+      - 2822
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Figura i Retrat"
+    images: 
+      - 
+        id: 3951
+        created_at: "2015-01-16T08:57:59Z"
+        updated_at: "2015-01-16T08:57:59Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/4.Jordi-Pagès-Collage-Quan-em-va-dir-per-sempre-vaig-veure-un-cactus_.jpg"
+        title: "4.Jordi-Pagès-Collage-Quan-em va-dir-per-sempre-vaig-veure un-cactus_"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/4.Jordi-Pagès-Collage-Quan-em-va-dir-per-sempre-vaig-veure-un-cactus_.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "De nit omplo el rebost del somni. Figura i Retrat"
+    id: 3948
+    aspect_ratio: "3-4"
+    created_at: "2015-01-16T08:54:01Z"
+    updated_at: "2015-01-19T10:29:15Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/de-nit-omplo-el-rebost-del-somni-jordi-pages/"
+    sku: "W846"
+    price: "550.00"
+    regular_price: "550.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">550,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "50"
+      height: "70"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p><strong>De nit omplo el rebost del somni</strong>. Sèrie inspirada en frases de Núria Pujolàs.</p>\n<p>Acrílic i tinta xina sobre cartoné.</p>\n<p>&nbsp;</p>\n"
+    short_description: "<p>Sèrie inspirada en frases de Núria Pujolàs.</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2608
+      - 2490
+      - 3994
+      - 3012
+      - 2951
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Figura i Retrat"
+    images: 
+      - 
+        id: 3949
+        created_at: "2015-01-16T08:55:54Z"
+        updated_at: "2015-01-16T08:55:54Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/3.Jordi-Pagès-Collages-De-nit-omplo-el-rebost-del-somni.jpg"
+        title: "3.Jordi -Pagès-Collage(s)-De-nit omplo-el-rebost del-somni"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/3.Jordi-Pagès-Collages-De-nit-omplo-el-rebost-del-somni.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "\''Hi ha solituds//de paisatge obert//on l'estimo//és un genèric de brisa de mar\''. Figura i Retrat"
+    id: 3946
+    aspect_ratio: "3-4"
+    created_at: "2015-01-16T08:48:12Z"
+    updated_at: "2015-01-16T08:52:30Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/hi-ha-solitudsde-paisatge-oberton-lestimoes-un-generic-de-brisa-de-mar-jordi-pages/"
+    sku: "W845"
+    price: "550.00"
+    regular_price: "550.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">550,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "40"
+      height: "50"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Sèrie inspirada en frases de Núria Pujolàs.</p>\n<p>'Hi ha solituds // de paisatge obert // on l'estimo // és un genèric de brisa de mar'.</p>\n<p>&nbsp;</p>\n"
+    short_description: "<p>Sèrie inspirada en frases de Núria Pujolàs.</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2899
+      - 3057
+      - 3344
+      - 2676
+      - 3952
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Figura i Retrat"
+    images: 
+      - 
+        id: 3947
+        created_at: "2015-01-16T08:50:30Z"
+        updated_at: "2015-01-16T08:50:30Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/2.Jordi-Pagès-Collage-Hi-ha-solituds-.jpg"
+        title: "2.Jordi-Pagès-Collage-Hi-ha-solituds"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/2.Jordi-Pagès-Collage-Hi-ha-solituds-.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Sense Títol III. Sèrie POETESfERITS. Figura i Retrat"
+    id: 4042
+    aspect_ratio: "3-4"
+    created_at: "2015-01-26T14:26:09Z"
+    updated_at: "2015-01-26T14:27:52Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/sense-titol-iii-serie-poetesferits-jordi-pages/"
+    sku: "W886"
+    price: "350.00"
+    regular_price: "350.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">350,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "40"
+      height: "50"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Sèrie POETESfERITS (2014).</p>\n<p>Tènica mixta, acrílic i llapis.</p>\n"
+    short_description: "<p>Sèrie POETESfERITS.</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2979
+      - 2748
+      - 2580
+      - 3833
+      - 2651
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Figura i Retrat"
+    images: 
+      - 
+        id: 4043
+        created_at: "2015-01-26T14:27:41Z"
+        updated_at: "2015-01-26T14:27:41Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/4.-Jordi-Pagès-Collages-Sèrie-POETESfERITS-.jpeg"
+        title: "4. Figura i Retrat Collage(s)  Sèrie POETESfERITS-"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/4.-Jordi-Pagès-Collages-Sèrie-POETESfERITS-.jpeg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Tríptic. Sèrie POETESfERITS. Figura i Retrat"
+    id: 4040
+    aspect_ratio: "9-16"
+    created_at: "2015-01-26T14:24:45Z"
+    updated_at: "2015-01-26T14:25:54Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/triptic-serie-poetesferits-jordi-pages/"
+    sku: "W885"
+    price: "900.00"
+    regular_price: "900.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">900,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: ""
+      height: ""
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Tríptic SÈRIE POETESfERITS (2014).</p>\n<p>COLLAGE Acrílic, i llapis sobre cartronés</p>\n"
+    short_description: "<p>Sèrie POETESfERITS.</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2410
+      - 2726
+      - 3299
+      - 2669
+      - 2504
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Figura i Retrat"
+    images: 
+      - 
+        id: 4041
+        created_at: "2015-01-26T14:25:39Z"
+        updated_at: "2015-01-26T14:25:39Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/3.Jordi-Pagés-Collage-Tríptic-Sèrie-POETESfERITS-Sense-títol.jpg"
+        title: "3.Jordi-Pagés-Collage-Tríptic-Sèrie-POETESfERITS- Sense-títol"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/3.Jordi-Pagés-Collage-Tríptic-Sèrie-POETESfERITS-Sense-títol.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Sense títol II. Sèrie POETESfERITS. Figura i Retrat"
+    id: 4038
+    aspect_ratio: "3-4"
+    created_at: "2015-01-26T14:17:54Z"
+    updated_at: "2015-01-26T14:24:32Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/sense-titol-ii-serie-poetesferits-jordi-pages/"
+    sku: "W884"
+    price: "350.00"
+    regular_price: "350.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">350,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: ""
+      height: ""
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Sèrie POETESfERITS (2014).</p>\n<p>Collage. Acrílic i llapis sobre cartroné.</p>\n"
+    short_description: "<p>Sèrie POETESfERITS.</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 3026
+      - 3848
+      - 2592
+      - 4052
+      - 4025
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Figura i Retrat"
+    images: 
+      - 
+        id: 4039
+        created_at: "2015-01-26T14:24:04Z"
+        updated_at: "2015-01-26T14:24:04Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/2.Jordi-Pagés-Sèrie-POETESfERITS-Sense-títol.jpg"
+        title: "2.Jordi-Pagés-Sèrie-POETESfERITS- Sense-títol"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/2.Jordi-Pagés-Sèrie-POETESfERITS-Sense-títol.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Sense títol. Sèrie POETESfERITS. Figura i Retrat"
+    id: 4036
+    aspect_ratio: "3-4"
+    created_at: "2015-01-26T13:48:46Z"
+    updated_at: "2015-01-26T14:17:42Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/sense-titol-serie-poetesferits-jordi-pages/"
+    sku: "W883"
+    price: "350.00"
+    regular_price: "350.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">350,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: ""
+      height: ""
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Sèrie POETESfERITS. Sense títol.</p>\n<p>Collage amb llapis i oli, sobre catroné.</p>\n"
+    short_description: "<p>Sèrie POETESfERITS.</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 4073
+      - 3950
+      - 2769
+      - 2594
+      - 2496
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Figura i Retrat"
+    images: 
+      - 
+        id: 4037
+        created_at: "2015-01-26T13:50:41Z"
+        updated_at: "2015-01-26T13:50:41Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/1.-Jordi-Pagés-Sèrie-POETESfERITS-Sense-títol.-Collage.jpg"
+        title: "1. Jordi-Pagés-Sèrie-POETESfERITS- Sense-títol. Collage"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/1.-Jordi-Pagés-Sèrie-POETESfERITS-Sense-títol.-Collage.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "1. JORDI PAGÈS Collage(s) sèrie Far de Cala Nans Cadaqués inspirada en la poesia de Michel Houellebecq."
+    id: 1
+    aspect_ratio: "4-4"
+    created_at: "2015-01-26T14:26:09Z"
+    updated_at: "2015-01-26T14:27:52Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    sale_price: null
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: "50"
+      width: "40"
+      height: "50"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Les pins, les nuages et le ciel<br/>\nSe reflètent en foyers mobiles<br/>\nChacun sait que la Terre est ronde.<br/>\nPoesía Michel Houellebecq<br/>\nED.ANAGRAMA, 2012 edición bilingüe.</p>\n"
+    short_description: "<p>1. JORDI PAGÈS Collage(s) sèrie Far de Cala Nans Cadaqués inspirada en la poesia de Michel Houellebecq.</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2979
+      - 2748
+      - 2580
+      - 3833
+      - 2651
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Figura i Retrat"
+    featured_src: "/images/1-jordi-pages-collage-serie-far-de-cala-nans-cadaques-inspirada-en-la-poesia-de-michel-houellebecq.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "2. JORDI PAGÈS Collage(s) sèrie Far de Cala Nans Cadaqués inspirada en la poesia de Michel Houellebecq."
+    id: 2
+    aspect_ratio: "4-4"
+    created_at: "2015-01-26T14:26:09Z"
+    updated_at: "2015-01-26T14:27:52Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    sale_price: null
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: "50"
+      width: "40"
+      height: "50"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Et il y avait les vagues,<br/>\nToujours les vagues<br/>\nLeur bruit était très doux,<br/>\nMon destin était flou.<br/>\nJe n'ai pas atteint l'île.<br/>\nPoesía Michel Houellebecq<br/>\nED.ANAGRAMA, 2012 edición bilingüe.</p>\n"
+    short_description: "<p>2. JORDI PAGÈS Collage(s) sèrie Far de Cala Nans Cadaqués inspirada en la poesia de Michel Houellebecq.</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2979
+      - 2748
+      - 2580
+      - 3833
+      - 2651
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Figura i Retrat"
+    featured_src: "/images/2-jordi-pages-collage-serie-far-de-cala-nans-cadaques-inspirada-en-la-poesia-de-michel-houellebecq.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "3. JORDI PAGÈS Collage(s) sèrie Far de Cala Nans Cadaqués inspirada en la poesia de Michel Houellebecq."
+    id: 3
+    aspect_ratio: "4-4"
+    created_at: "2015-01-26T14:26:09Z"
+    updated_at: "2015-01-26T14:27:52Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    sale_price: null
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: "50"
+      width: "40"
+      height: "50"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>il y a un chemin,<br/>\nune possibilité de chemin.<br/>\nEt il y a également un signe.<br/>\nPoesía Michel Houellebecq<br/>\nED.ANAGRAMA, 2012 edición bilingüe.</p>\n"
+    short_description: "<p>3. JORDI PAGÈS Collage(s) sèrie Far de Cala Nans Cadaqués inspirada en la poesia de Michel Houellebecq.</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2979
+      - 2748
+      - 2580
+      - 3833
+      - 2651
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Figura i Retrat"
+    featured_src: "/images/3-jordi-pages-collage-serie-far-de-cala-nans-cadaques-inspirada-en-la-poesia-de-michel-houellebecq.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "4. JORDI PAGÈS Gravat sèrie Far de Cala Nans Cadaqués."
+    id: 4
+    aspect_ratio: "3-4"
+    created_at: "2015-01-26T14:26:09Z"
+    updated_at: "2015-01-26T14:27:52Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    sale_price: null
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: "50"
+      width: "40"
+      height: "50"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>4. JORDI PAGÈS Gravat sèrie Far de Cala Nans Cadaqués (gravat fet a TINTS INVISIBLE edicions, Barcelona.)</p>\n"
+    short_description: "<p>4. JORDI PAGÈS Gravat sèrie Far de Cala Nans Cadaqués.</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2979
+      - 2748
+      - 2580
+      - 3833
+      - 2651
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Figura i Retrat"
+    featured_src: "/images/4-jordi-pages-gravat-serie-far-de-cala-nans-cadaques.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
