@@ -16,7 +16,7 @@ subdescription: "La figura i el retrat en el fons d'Art de la Fundació Iluro"
 baseurl:
 url: "https://figurairetratfundacioiluro.github.io"
 logoWeb: /images/touch/favicon-web-128x128.png 
-faviconWeb: favicon.png
+faviconWeb: /favicon.png
 twitter_username: freecates
 github_username:  freecates
 twitter:          artinpocket
