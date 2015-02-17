@@ -55,7 +55,7 @@ p {
 }
 
 a {
-    color: #2FDCFF;
+    color: #ffe6e6;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -74,8 +74,8 @@ img {
 
 a:hover,
 a:focus {
-    text-decoration: none;
-    color: #89ECFE;
+    text-decoration: underline;
+    color: #ffd3d3;
 }
 
 aside a:hover,
@@ -661,8 +661,8 @@ figure img {
   color: #999;
 }
 .related-posts li a:hover {
-  color: #268bd2;
-  text-decoration: none;
+  color: #ffd3d3;
+  text-decoration: underline;
 }
 .related-posts li a:hover small {
   color: inherit;
