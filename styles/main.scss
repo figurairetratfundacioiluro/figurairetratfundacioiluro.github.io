@@ -573,6 +573,9 @@ figure img {
   h1, figure {
     margin-left: -2rem;
   }
+  .brand-heading {
+    margin-left: 0!important;
+}
   figure {
     margin: inherit;
   }
@@ -598,6 +601,9 @@ figure img {
   h1 {
     font-size: 4rem;
   }
+  .brand-heading {
+    margin-left: 0!important;
+  }
 }
 @media (min-width: 68rem) {
   body.mur-diari .post {
@@ -613,6 +619,9 @@ figure img {
   }
   h1, figure {
     margin-left: -4rem;
+  }
+  .brand-heading {
+    margin-left: 0!important;
   }
 }
 /* social share */
