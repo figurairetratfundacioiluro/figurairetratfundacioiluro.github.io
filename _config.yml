@@ -36,15 +36,19 @@ portfoli-author:
  name: "Figura i Retrat"
  url: https://figurairetratfundacioiluro.github.io/
 organitza:
-  artinpocket:
-    description:  "Artinpocket - organitzadors de Figura i Retrat"
-    logo: "artinpocket-organitzadors-barcelona-digital-art-footer.jpg"
-    url: http://www.artinpocket.cat/
+  fundacioiluro:
+    description:  "Fundació Iluro - organitzadors de Figura i Retrat"
+    logo: "fundacio-iluro-organitzadors-figura-i-retrat-footer.jpg"
+    url: http://www.fundacioiluro.cat/
 
 colabora:
+  artinpocket:
+    description:  "Artinpocket - Partners de Figura i Retrat"
+    logo: "artinpocket-partner-figura-i-retrat-footer.png"
+    url:  http://www.artinpocket.cat/
   oxygen:
-    description:  "Oxygen - Partner tecnològic de Figura i Retrat"
-    logo: "oxygen-organitzadors-barcelona-digital-art-footer.jpg"
+    description:  "Oxygen - Partners de Figura i Retrat"
+    logo: "oxygen-partner-figura-i-retrat-footer.png"
     url:  http://www.oxygen.cat/
 
 sale-end: '2014-12-31T00:00:00+01:00'

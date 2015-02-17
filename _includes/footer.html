@@ -13,7 +13,7 @@
           <p>{{ site.description }}</p>
           
           {% for place in site.data.places %}
-          <div class="address"><p><small><strong>Adreça:</strong> {{ place.address }} - <strong>Telèfon:</strong> <a href="tel:{{ place.phone }}">{{ place.phone }}</a> - <a href="{{ place.url }}" title="{{ place.name }}" rel="external"><i class="fa fa-external-link"></i></a> | <a href="{{ place.facebook }}" title="{{ place.name }} en Facebook" rel="external"><i class="fa fa-facebook"></i></a> | <a href="mailto:{{ place.email }}" title="Correo-e {{ place.email }}" rel="external"><i class="fa fa-envelope"></i></a></small></p></div>
+          <div class="address"><p><small><strong>Adreça:</strong> {{ place.address }} - <strong>Telèfon:</strong> <a href="tel:{{ place.phone }}">{{ place.phone }}</a> - <a href="{{ place.url }}" title="{{ place.name }}" rel="external"><i class="fa fa-external-link"></i></a> | <a href="{{ place.facebook }}" title="{{ place.name }} a Facebook" rel="external"><i class="fa fa-facebook"></i></a> | <a href="{{ place.twitter }}" title="{{ place.name }} a Twitter" rel="external"><i class="fa fa-twitter"></i></a> | <a href="mailto:{{ place.email }}" title="Correo-e {{ place.email }}" rel="external"><i class="fa fa-envelope"></i></a></small></p></div>
           {% endfor %}
 
         <hr/>
@@ -22,11 +22,12 @@
           
           <div class="col-lg-6">
               <h2>Un projecte de</h2>
-              <a href="{{ site.organitza.artinpocket.url }}"><img src="/images/{{ site.organitza.artinpocket.logo }}" alt="{{ site.organitza.artinpocket.description }}" title="{{ site.organitza.artinpocket.description }}"></a>
+              <a href="{{ site.organitza.fundacioiluro.url }}"><img src="/images/{{ site.organitza.fundacioiluro.logo }}" alt="{{ site.organitza.fundacioiluro.description }}" title="{{ site.organitza.fundacioiluro.description }}"></a>
           </div>
 
           <div class="col-lg-6">
-            <h2>Partner Tecnològic</h2>
+            <h2>Partners</h2>
+              <a href="{{ site.colabora.artinpocket.url }}"><img src="/images/{{ site.colabora.artinpocket.logo }}" alt="{{ site.colabora.artinpocket.description }}" title="{{ site.colabora.artinpocket.description }}"></a>
               <a href="{{ site.colabora.oxygen.url }}"><img src="/images/{{ site.colabora.oxygen.logo }}" alt="{{ site.colabora.oxygen.description }}" title="{{ site.colabora.oxygen.description }}"></a>
             </div>
 
