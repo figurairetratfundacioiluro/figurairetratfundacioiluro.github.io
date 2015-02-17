@@ -32,6 +32,14 @@
             </div>
 
         </div>
+
+        <hr/>
+
+          {% for place in site.data.places %}
+          {{ place.description }}
+          {% endfor %}
+
+        <hr/>
       </div>
 
     </div>

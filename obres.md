@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Obres de Jordi Pages
+title: "Obres de l'exposició Figura<span class='copulativa'>i</span><span class='light'>Retrat</span>"
 category: mur-diari
 ---
 
