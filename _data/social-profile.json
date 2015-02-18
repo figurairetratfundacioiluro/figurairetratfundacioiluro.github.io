@@ -1,8 +1,8 @@
 { "@context" : "http://schema.org",
   "@type" : "Organization",
-  "name" : "Figura i Retrat és un artista de Granollers (1951) amb una forta empremta a Cadaqués",
+  "name" : "La figura i el retrat en el fons d'Art de la Fundació Iluro.",
   "url" : "https://figurairetratfundacioiluro.github.io/",
-  "sameAs" : [ "https://www.facebook.com/artinpocket.digital.art",
-    "https://www.twitter.com/artinpocket",
-    "https://plus.google.com/110343213762062165287"] 
+  "sameAs" : [ "https://www.facebook.com/fundacioiluro",
+    "https://twitter.com/FundacioIluro",
+    "https://plus.google.com/103161905717476431101"] 
 }

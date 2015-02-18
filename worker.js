@@ -5,8 +5,8 @@ importScripts('/bower_components/cache-polyfill/dist/serviceworker-cache-polyfil
 // The SW will be shutdown when not in use to save memory,
 // be aware that any global state is likely to disappear
 
-var DEFAULT_CACHE = 'figurairetrat-app-cache6';
-var AIP_CACHE = 'figurairetrat-aip-cache6';
+var DEFAULT_CACHE = 'figurairetrat-app-cache7';
+var AIP_CACHE = 'figurairetrat-aip-cache7';
 
 console.log('SW startup', DEFAULT_CACHE);
 

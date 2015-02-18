@@ -1,15 +1,55 @@
     <!-- Filosofia Section -->
-    <section id="filosofia" class="content-section no-padding">
+    <section id="filosofia" class="content-section text-center no-padding">
         <div class="filosofia-section">
             <div class="yellow-bg">
-                <div class="container text-center">
+                <div class="container">
                     <div class="row">
                         <div class="col-lg-8 col-lg-offset-2">
-                            <h2>Trajectòria de Figura<span class="copulativa">i</span><span class="light">Retrat</span></h2>
-                            <p>La seva primera exposició va ser l'any 1979 a la sala Exposicions Caixa Sabadell de Granollers. Sota el títol d' “Inici” era una col·lectiva amb Jordi Benito. Durant tots aquests anys Figura i Retrat s'ha caracteritzat per exposar fora dels àmbits corrents del món de l'art. Biblioteques, llibreries, sales culturals, universitats, hotels, s'han omplert dels seus personalíssims collages, a mig camí entre l'art i la poesia, d'aquí que no ens hem d'estranyar que opti per aquests llocs culturals, on se sent molt més còmode que no en les institucions artístiques més acadèmiques de l'art. Al llarg de la seva trajectòria ha mostrat el seu art en multituds d'exposicions arreu del territori nacional (Barcelona, Cadaqués, Igualada, Girona, Granollers, entre molts d'altres), però també de l'internacional (Belfast (Irlanda), Céret (França), etc.).</p>
-                            <h3><a href="#portfolioModal-darreres-exposicions" class="btn btn-default" data-toggle="modal">Darreres exposicions</a></h3>
+                            <h2>Proposta educativa de l'exposició Figura<span class="copulativa">i</span><span class="light">Retrat</span></h2>
+                            <p>La Fundació Iluro ofereix activitats dinamitzadores de l’exposició destinades al públic escolar i públic general</p>
                         </div>
                     </div>
+                  <div class="row">    
+                      {% for primaria in site.data.visites.primaries %}
+                          <div class="col-sm-12 col-md-6 text-left">
+                              <figure class="no-margin">
+                                <div class="padding-artwork-container">
+                                    <h3>{{ primaria.category }}</h3>
+                                    <p><strong>Activitat:</strong> {{ primaria.activity }}<br/>
+                                    <strong>Durada:</strong> {{ primaria.duration }}<br/>
+                                    <strong>Horari:</strong> {{ primaria.timetable }}<br/>
+                                    <strong>Participants:</strong> {{ primaria.people }}<br/></p>
+                                    {{ primaria.description }}
+                                </div>
+                            </figure>
+                          </div>
+                      {% endfor %}    
+                      {% for batxillerat in site.data.visites.batxillerats %}
+                          <div class="col-sm-12 col-md-6 text-left">
+                              <figure class="no-margin">
+                                <div class="padding-artwork-container">
+                                    <h3>{{ batxillerat.category }}</h3>
+                                    <p><strong>Durada:</strong> {{ batxillerat.duration }}<br/>
+                                    <strong>Horari:</strong> {{ batxillerat.timetable }}</p>
+                                    {{ batxillerat.description }}
+                                </div>
+                            </figure>
+                          </div>
+                      {% endfor %}    
+                      {% for adult in site.data.visites.adults %}
+                          <div class="col-sm-12 col-md-6 text-left">
+                              <figure class="no-margin">
+                                <div class="padding-artwork-container">
+                                    <h3>{{ adult.category }}</h3>
+                                    <p><strong>Durada:</strong> {{ adult.duration }}</p>
+                                    <p><strong>Dates:</strong><br/>
+                                     <strong>Dissabte:</strong> {{ adult.timetable.saturday }}<br/>
+                                     <strong>Dijous:</strong> {{ adult.timetable.thursday }}</p>
+                                    {{ adult.description }}
+                                </div>
+                            </figure>
+                          </div>
+                      {% endfor %}
                 </div>
             </div>
         </div>

@@ -55,14 +55,15 @@ p {
 }
 
 a {
-    color: #ffe6e6;
+    color: #41b7d8;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
+    font-weight: bold;
 }
 
-aside a {
-  color: blue;
+footer a {
+  color: #98DDF0;
   -webkit-transition: all .2s ease-in-out;
   -moz-transition: all .2s ease-in-out;
   transition: all .2s ease-in-out;
@@ -75,13 +76,13 @@ img {
 a:hover,
 a:focus {
     text-decoration: underline;
-    color: #ffd3d3;
+    color: #0491B9;
 }
 
-aside a:hover,
-aside a:focus {
+footer a:hover,
+footer a:focus {
   text-decoration: underline;
-  color: blue;
+  color: #ffffff;
 }
 
 hr {
@@ -507,6 +508,7 @@ figure{
   padding: 1em;
   margin: .25rem -1rem;
   color: #000000;
+  box-shadow: 0 12px 15px 0 rgba(0, 0, 0, 0.24);
 }
 figure img {
   display: inline;
