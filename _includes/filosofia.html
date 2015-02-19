@@ -13,12 +13,20 @@
                       {% for primaria in site.data.visites.primaries %}
                           <div class="col-sm-12 col-md-6 text-left">
                               <figure class="no-margin">
-                                <div class="padding-artwork-container">
+                                <div class="padding-artwork-container" itemscope itemtype="http://schema.org/Event">
                                     <h3>{{ primaria.category }}</h3>
-                                    <p><strong>Activitat:</strong> {{ primaria.activity }}<br/>
+                                    <strong>Activitat:</strong> <span itemprop="name">{{ primaria.activity }}</span><br/>
                                     <strong>Durada:</strong> {{ primaria.duration }}<br/>
-                                    <strong>Horari:</strong> {{ primaria.timetable }}<br/>
-                                    <strong>Participants:</strong> {{ primaria.people }}<br/></p>
+                                    <meta itemprop="startDate" content="{{ primaria.startDate }}">
+                                    <strong>Horari:</strong> {{ primaria.timetable }}
+                                    <div itemprop="location" itemscope itemtype="http://schema.org/Place">
+                                      <strong>Lloc:</strong> <span itemprop="name">{{ primaria.place }}</span>
+                                      <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                        <strong>Adreça:</strong> <span itemprop="streetAddress">{{ primaria.streetAddress }}</span> <span itemprop="postalCode">{{ primaria.postalCode }}</span>, <span itemprop="addressLocality">{{ primaria.addressLocality }}</span>
+                                      </div>
+                                    </div>
+                                    <strong>Participants:</strong> {{ primaria.people }}
+                                    <hr/>
                                     {{ primaria.description }}
                                 </div>
                             </figure>
@@ -27,10 +35,18 @@
                       {% for batxillerat in site.data.visites.batxillerats %}
                           <div class="col-sm-12 col-md-6 text-left">
                               <figure class="no-margin">
-                                <div class="padding-artwork-container">
-                                    <h3>{{ batxillerat.category }}</h3>
-                                    <p><strong>Durada:</strong> {{ batxillerat.duration }}<br/>
-                                    <strong>Horari:</strong> {{ batxillerat.timetable }}</p>
+                                <div class="padding-artwork-container" itemscope itemtype="http://schema.org/Event">
+                                    <h3><span itemprop="name">{{ batxillerat.category }}</span></h3>
+                                    <strong>Durada:</strong> {{ batxillerat.duration }}<br/>
+                                    <meta itemprop="startDate" content="{{ batxillerat.startDate }}">
+                                    <strong>Horari:</strong> {{ batxillerat.timetable }}<br/>
+                                    <div itemprop="location" itemscope itemtype="http://schema.org/Place">
+                                      <strong>Lloc:</strong> <span itemprop="name">{{ batxillerat.place }}</span>
+                                      <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                        <strong>Adreça:</strong> <span itemprop="streetAddress">{{ batxillerat.streetAddress }}</span> <span itemprop="postalCode">{{ batxillerat.postalCode }}</span>, <span itemprop="addressLocality">{{ batxillerat.addressLocality }}</span>
+                                      </div>
+                                    </div>
+                                    <hr/>
                                     {{ batxillerat.description }}
                                 </div>
                             </figure>
@@ -39,12 +55,20 @@
                       {% for adult in site.data.visites.adults %}
                           <div class="col-sm-12 col-md-6 text-left">
                               <figure class="no-margin">
-                                <div class="padding-artwork-container">
-                                    <h3>{{ adult.category }}</h3>
-                                    <p><strong>Durada:</strong> {{ adult.duration }}</p>
-                                    <p><strong>Dates:</strong><br/>
-                                     <strong>Dissabte:</strong> {{ adult.timetable.saturday }}<br/>
-                                     <strong>Dijous:</strong> {{ adult.timetable.thursday }}</p>
+                                <div class="padding-artwork-container" itemscope itemtype="http://schema.org/Event">
+                                    <h3><span itemprop="name">{{ adult.category }}</span></h3>
+                                    <strong>Durada:</strong> {{ adult.duration }}<br/>
+                                    <meta itemprop="startDate" content="{{ adult.startDate }}">
+                                    <div itemprop="location" itemscope itemtype="http://schema.org/Place">
+                                      <strong>Lloc:</strong> {{ adult.place }}
+                                      <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                        <strong>Adreça:</strong> <span itemprop="streetAddress">{{ adult.streetAddress }}</span> <span itemprop="postalCode">{{ adult.postalCode }}</span>, <span itemprop="addressLocality">{{ adult.addressLocality }}</span>
+                                      </div>
+                                    </div>
+                                    <strong>Dates:</strong><br/>
+                                    <strong>Dissabte:</strong> {{ adult.timetable.saturday }}<br/>
+                                    <strong>Dijous:</strong> {{ adult.timetable.thursday }}
+                                    <hr/>
                                     {{ adult.description }}
                                 </div>
                             </figure>

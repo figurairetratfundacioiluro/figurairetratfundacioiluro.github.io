@@ -1,7 +1,12 @@
-- description: "<p>AVisita guiada a l’exposició “Retrats” de la Fundació Illuro on ens centrarem durant el recorregut en destacar aquelles obres més destacades del fons de la col.lecció que ens ajudin a entendre la funció social d’aquest génere artístic al llarg de la història.</p>\n"
+- description: "<p>Visita guiada a l’exposició “Retrats” de la Fundació Illuro on ens centrarem durant el recorregut en destacar aquelles obres més destacades del fons de la col.lecció que ens ajudin a entendre la funció social d’aquest génere artístic al llarg de la història.</p>\n"
   duration: "50 min"
+  startDate: "2015-03-28T18:00"
   timetable:
     saturday: "28/03 i 09/05 a les 18h" 
     thursday: "9, 16, 23 i 30/04 a les 18h"
   category: "Adults"
+  streetAddress: "Carrer d'En Palau, 18"
+  addressLocality: "Mataró"
+  postalCode: "08301"
+  place: "Fundació Iluro"
   id: 1 
