@@ -11,7 +11,7 @@
                     </div>
                   <div class="row">    
                       {% for primaria in site.data.visites.primaries %}
-                          <div class="col-sm-12 col-md-6 text-left">
+                          <div class="col-md-6 text-left">
                               <figure class="no-margin margin-bottom-1">
                                 <div class="padding-artwork-container" itemscope itemtype="http://schema.org/Event">
                                     <h3>{{ primaria.category }}</h3>
@@ -33,7 +33,7 @@
                           </div>
                       {% endfor %}    
                       {% for batxillerat in site.data.visites.batxillerats %}
-                          <div class="col-sm-12 col-md-6 text-left">
+                          <div class="col-md-6 text-left">
                               <figure class="no-margin margin-bottom-1">
                                 <div class="padding-artwork-container" itemscope itemtype="http://schema.org/Event">
                                     <h3><span itemprop="name">{{ batxillerat.category }}</span></h3>
@@ -53,7 +53,7 @@
                           </div>
                       {% endfor %}    
                       {% for adult in site.data.visites.adults %}
-                          <div class="col-sm-12 col-md-6 text-left">
+                          <div class="col-md-6 text-left">
                               <figure class="no-margin margin-bottom-1">
                                 <div class="padding-artwork-container" itemscope itemtype="http://schema.org/Event">
                                     <h3><span itemprop="name">{{ adult.category }}</span></h3>
