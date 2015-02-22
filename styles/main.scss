@@ -319,6 +319,21 @@ hr {
     }
 }
 
+.row-animate div figure {
+  -webkit-transition: -webkit-transform .5s ease-in-out;
+     -moz-transition:    -moz-transform .5s ease-in-out;
+      -ms-transition:     -ms-transform .5s ease-in-out;
+       -o-transition:      -o-transform .5s ease-in-out;
+          transition:         transform .5s ease-in-out;
+  }
+.row-animate div figure:hover, .row-animate div figure:focus {
+  -webkit-transform: scale(1.15);
+     -moz-transform: scale(1.15);
+      -ms-transform: scale(1.15);
+       -o-transform: scale(1.15);
+          transform: scale(1.15);
+  }
+
 .download-section {
     width: 100%;
     color: #fff;
