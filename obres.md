@@ -4,6 +4,8 @@ title: "Obres de l'exposició Figura<span class='copulativa'>i</span><span class
 category: mur-diari
 ---
 
+<p><small>Aquesta és una breu selecció <strong>d'11 de les 44</strong> peces que formen l'exposició.</small></p>
+
 <div class="posts clearfix">
   {% for post in site.categories['simboliques'] reversed %}
   <div class="post">
