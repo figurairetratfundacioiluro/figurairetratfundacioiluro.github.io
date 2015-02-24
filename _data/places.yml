@@ -1,12 +1,12 @@
 - name:	Figura i Retrat
-  address:	'Carrer d’en Palau, 18 08301, Mataró'
+  address:	'Carrer de la Riera, 92 08301, Mataró'
   description: "<p>La <strong><a href='http://www.fundacioiluro.cat/'>Fundació Iluro</a></strong> es constitueix amb la finalitat d’administrar el fons per a obra social de l’antiga Caixa d’Estalvis Laietana. Amb una missió clarament enfocada al retorn social,  té com a objectiu desenvolupar, fomentar, promoure i divulgar tota clase de temes culturals, artístics, científics i técnics, i en general, qualsevol mena d’expressió intel.lectual o material.</p>\n<p>Inaugura el 2015 amb una nova etapa enfocada a posar en valor el fons d’art del que disposa i fer-lo accesible a la societat amb la organització d’exposicions temporals d’accés gratuït i les activitats dinamitzadores que l’acompanyen.</p>\n"
   url:	https://figurairetratfundacioiluro.github.io/
   twitter: https://twitter.com/FundacioIluro
   facebook:	https://www.facebook.com/fundacioiluro
   phone: '0034937908474'
   email: fundacio@fundacioiluro.cat
-  getdirections: "https://www.google.com/maps/dir//Carrer+d'En+Palau,+18,+08301+Matar%C3%B3,+Barcelona,+Espanya/"
-  latitude: 41.539859
-  longitude: 2.445546
+  getdirections: "https://www.google.com/maps/dir//Carrer+de+la+Riera,+92,+08301+Matar%C3%B3,+Barcelona,+Espanya/"
+  latitude: 41.541306
+  longitude: 2.443993
   id: 2
