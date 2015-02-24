@@ -35,7 +35,7 @@ layout: default-post
             {% if page.category == 'place' or page.category == 'patrocinadors' %}
             <li class="twitter"><a href="https://twitter.com/intent/tweet?text={{page.title | replace:"'","\'" | uri_escape}}%20%E2%80%94%20{{page.category | replace:"'","\'" | uri_escape}}%20{{site.twitter-sentence | replace:"'","\'" | uri_escape}}&url={{ site.url }}{{page.url | replace:"'","\'" | uri_escape}}&counturl={{ site.url }}{{page.url | replace:"'","\'" | uri_escape}}" title="Share on Twitter"><span class="count"><i class="fa fa-twitter"></i> Tweet</span></a></li>
             {% else if %}
-            <li class="twitter"><a href="https://twitter.com/intent/tweet?text={{page.title}}%20{{site.twitter-sentence | replace:"'","\'" | uri_escape}}&url={{ site.url }}{{page.url | replace:"'","\'" | uri_escape}}&via=artinpocket" title="Share on Twitter"><span class="count"><i class="fa fa-twitter"></i> Tweet</span></a></li>
+            <li class="twitter"><a href="https://twitter.com/intent/tweet?text={{page.title}}%20{{site.twitter-sentence | replace:"'","\'" | uri_escape}}&url={{ site.url }}{{page.url | replace:"'","\'" | uri_escape}}&via=fundacioiluro" title="Share on Twitter"><span class="count"><i class="fa fa-twitter"></i> Tweet</span></a></li>
             {% endif %}
             <li class="googleplus"><a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus"></i> +1</span></a></li>
           </ul>
