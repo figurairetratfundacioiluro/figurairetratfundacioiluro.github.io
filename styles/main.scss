@@ -705,10 +705,12 @@ figure img {
 }
 
 .yellow-bg {
-  background-color: rgba(164,174,150,.75);
+  background-color: rgba(164,174,150,.5);
     padding: 50px 0;
 }
-
+.footer-section .yellow-bg {
+  background-color: rgba(164,174,150,.85);
+}
 .content-section {
         padding-top: 5rem;
         padding-bottom: 5rem; 
