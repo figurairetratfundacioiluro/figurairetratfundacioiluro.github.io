@@ -11,7 +11,7 @@
                     </div>
                   <div class="row row-animate">    
                       {% for primaria in site.data.visites.primaries %}
-                          <div class="col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-0 text-left">
+                          <div class="col-lg-6 text-left">
                               <figure class="no-margin margin-bottom-1">
                                 <div class="embed-container embed-container_{{ primaria.aspect_ratio }}">
                                   <core-image sizing="cover" class="core-image-size" preload fade src="{{ primaria.featured_src }}"></core-image> 
@@ -36,7 +36,7 @@
                           </div>
                       {% endfor %}    
                       {% for batxillerat in site.data.visites.batxillerats %}
-                          <div class="col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-0 text-left">
+                          <div class="col-lg-6 text-left">
                               <figure class="no-margin margin-bottom-1">
                                 <div class="embed-container embed-container_{{ batxillerat.aspect_ratio }}">
                                   <core-image sizing="cover" class="core-image-size" preload fade src="{{ batxillerat.featured_src }}"></core-image> 
@@ -59,7 +59,7 @@
                           </div>
                       {% endfor %}    
                       {% for adult in site.data.visites.adults %}
-                          <div class="col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-0 text-left">
+                          <div class="col-lg-6 text-left">
                               <figure class="no-margin margin-bottom-1">
                                 <div class="embed-container embed-container_{{ adult.aspect_ratio }}">
                                   <core-image sizing="cover" class="core-image-size" preload fade src="{{ adult.featured_src }}"></core-image> 
