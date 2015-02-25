@@ -3,12 +3,12 @@
   startDate: "2015-03-28T18:00"
   timetable:
     saturday: "28/03 i 09/05 a les 18h" 
-    thursday: "9, 16, 23 i 30/04 a les 18h"
+    thursday: "16, 23 i 30/04 a les 18h"
   category: "Visites guiades"
   streetAddress: "La Riera, 92"
   addressLocality: "Mataró"
   postalCode: "08301"
-  place: "Fundació Iluro"
+  place: "Ateneu de la Fundació Iluro"
   featured_src: "/images/figura-i-retrat-fundacio-iluro-visites-adult.jpg"
   aspect_ratio: "16-9"
   id: 3 
