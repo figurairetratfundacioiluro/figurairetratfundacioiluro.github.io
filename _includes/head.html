@@ -12,7 +12,7 @@
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="og:type" content="{{ page.og-type }}" />
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-    {% assign work_data = site.data.obres.completaobrajordipages | where:"id", page.work %}
+    {% assign work_data = site.data.obres.completaobrafigurairetrats | where:"id", page.work %}
     {% assign work = work_data | first %}
     <meta property="og:image" content="{{ work.featured_src }}" />
 
