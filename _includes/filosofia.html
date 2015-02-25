@@ -13,7 +13,8 @@
                       {% for post in site.categories['visites'] %}
                         <div class="col-lg-6 text-left">
                           {{ post.content }}
-                          <div class="social-share">
+                          <hr/>
+                          <div class="social-share text-center">
                             <ul class="socialcount socialcount-small inline-list">
                               <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ post.url }}" title="Share on Facebook"><span class="count"><i class="fa fa-facebook"></i> Like</span></a></li>
                               {% if page.category == 'place' or page.category == 'patrocinadors' %}
@@ -24,6 +25,7 @@
                               <li class="googleplus"><a href="https://plus.google.com/share?url={{ site.url }}{{ post.url }}" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus"></i> +1</span></a></li>
                             </ul>
                           </div>
+                          <hr/>
                         </div>
                       {% endfor %}
                 </div>
