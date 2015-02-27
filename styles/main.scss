@@ -97,7 +97,7 @@ footer a:focus {
 }
 
 hr {
-  border-top: 2px dashed;
+  border-top: 1px dashed;
 }
 
 .light {
@@ -752,14 +752,14 @@ figure img {
 }
 
 .btn-default {
-    border: 2px dashed #ffffff;
+    border: 1px solid #ffffff;
     color: #ffffff;
     background-color: transparent;
 }
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 2px dashed #000000;
+    border: 1px solid #000000;
     outline: 0;
     color: #000;
     background-color: #ffffff;
