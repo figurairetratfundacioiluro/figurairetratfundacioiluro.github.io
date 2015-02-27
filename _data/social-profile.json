@@ -1,7 +1,7 @@
 { "@context" : "http://schema.org",
   "@type" : "Organization",
   "name" : "La figura i el retrat en el fons d'Art de la Fundació Iluro.",
-  "url" : "https://figurairetratfundacioiluro.github.io/",
+  "url" : "http://figurairetrat.fundacioiluro.cat/",
   "sameAs" : [ "https://www.facebook.com/fundacioiluro",
     "https://twitter.com/FundacioIluro",
     "https://plus.google.com/103161905717476431101"] 
