@@ -46,6 +46,17 @@ p {
     line-height: 1.5;
 }
 
+google-map {
+        display: block;
+        height: 30em;
+      }
+
+@media(min-width:767px) {
+  google-map {
+        height: 40em;
+      }
+}
+
 @media(min-width:767px) {
     p {
         margin: 0 0 35px;

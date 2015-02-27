@@ -8,6 +8,7 @@ categories:
   - visites
 published: true
 work: 2
+email: "ateneu@fundacioiluro.cat"
 ---
 
 {% assign work_data = site.data.visites.batxillerats | where:"id", page.work %}

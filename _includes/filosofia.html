@@ -13,6 +13,7 @@
                       {% for post in site.categories['visites'] %}
                         <div class="col-lg-6 text-left">
                           {{ post.content }}
+                          <p class="text-center"><a href="mailto:{{ post.email }}" title="Correu-e {{ post.email }}" rel="external" class="btn btn-default btn-lg"><i class="fa fa-envelope fa-fw"></i> <span class="network-name">Inscriu-t'hi</span></a></p>
                           <hr/>
                           <div class="social-share text-center">
                             <ul class="socialcount socialcount-small inline-list">
