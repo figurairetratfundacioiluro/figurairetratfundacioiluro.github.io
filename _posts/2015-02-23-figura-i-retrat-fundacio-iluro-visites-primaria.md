@@ -4,6 +4,7 @@ og: true
 og-type: article
 title: "I tu, què hi veus?" 
 share: true
+class: event
 categories:
   - visites
 published: true

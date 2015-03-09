@@ -4,6 +4,7 @@ og: true
 og-type: article
 title: "Adults" 
 share: true
+class: event
 categories:
   - visites
 published: true

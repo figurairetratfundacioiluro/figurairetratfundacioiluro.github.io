@@ -12,17 +12,32 @@
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="og:type" content="{{ page.og-type }}" />
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-    {% assign work_data = site.data.obres.completaobrafigurairetrats | where:"id", page.work %}
-    {% assign work = work_data | first %}
-    <meta property="og:image" content="{{ site.url }}{{ work.featured_src }}" />
-    <meta property="og:description" content="{{ work.short_description | strip_html }}" />
+    {% if page.class == 'artwork' %}
+        {% assign work_data = site.data.obres.completaobrafigurairetrats | where:"id", page.work %}
+        {% assign work = work_data | first %}
+        <meta property="og:image" content="{{ site.url }}{{ work.featured_src }}" />
+        <meta property="og:description" content="{{ work.short_description | strip_html }}" />
 
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@{{ site.twitter }}">
-    <meta name="twitter:creator" content="@{% if page.twitter-username %}{{ page.twitter-username }}{% else %}{{ site.twitter }}{% endif %}">
-    <meta name="twitter:title" content="{{ page.title }}">
-    <meta name="twitter:description" content="{{ work.short_description | strip_html }}">
-    <meta name="twitter:image:src" content="{{ site.url }}{{ work.featured_src }}">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@{{ site.twitter }}">
+        <meta name="twitter:creator" content="@{% if page.twitter-username %}{{ page.twitter-username }}{% else %}{{ site.twitter }}{% endif %}">
+        <meta name="twitter:title" content="{{ page.title }}">
+        <meta name="twitter:description" content="{{ work.short_description | strip_html }}">
+        <meta name="twitter:image:src" content="{{ site.url }}{{ work.featured_src }}">
+        {% endif %}
+    {% if page.class == 'event' %}
+        {% assign work_data = site.data.visites.completavisites | where:"id", page.work %}
+        {% assign work = work_data | first %}
+        <meta property="og:image" content="{{ site.url }}{{ work.featured_src }}" />
+        <meta property="og:description" content="{{ work.description | strip_html }}" />
+
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@{{ site.twitter }}">
+        <meta name="twitter:creator" content="@{% if page.twitter-username %}{{ page.twitter-username }}{% else %}{{ site.twitter }}{% endif %}">
+        <meta name="twitter:title" content="{{ page.title }}">
+        <meta name="twitter:description" content="{{ work.description | strip_html }}">
+        <meta name="twitter:image:src" content="{{ site.url }}{{ work.featured_src }}">
+        {% endif %}
     {% endif %}
 
     <meta name="mobile-web-app-capable" content="yes">
