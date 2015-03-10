@@ -414,23 +414,23 @@ hr {
     -o-background-size: cover;
 }
 
-#portfoli .portfolio-item {
+#obres .portfolio-item {
     right: 0;
     margin: 0 0 15px;
 }
 
-#portfoli .portfolio-item:nth-child(3n+1) {
+#obres .portfolio-item:nth-child(3n+1) {
     clear: both;
 }
 
-#portfoli .portfolio-item .portfolio-link {
+#obres .portfolio-item .portfolio-link {
     display: block;
     position: relative;
     margin: 0 auto;
     max-width: 400px;
 }
 
-#portfoli .portfolio-item .portfolio-link .caption {
+#obres .portfolio-item .portfolio-link .caption {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -441,11 +441,11 @@ hr {
     transition: all ease .5s;
 }
 
-#portfoli .portfolio-item .portfolio-link .caption:hover {
+#obres .portfolio-item .portfolio-link .caption:hover {
     opacity: 1;
 }
 
-#portfoli .portfolio-item .portfolio-link .caption .caption-content {
+#obres .portfolio-item .portfolio-link .caption .caption-content {
     position: absolute;
     top: 50%;
     width: 100%;
@@ -456,16 +456,16 @@ hr {
     color: #fff;
 }
 
-#portfoli .portfolio-item .portfolio-link .caption .caption-content i {
+#obres .portfolio-item .portfolio-link .caption .caption-content i {
     margin-top: -12px;
 }
 
-#portfoli .portfolio-item .portfolio-link .caption .caption-content h3,
-#portfoli .portfolio-item .portfolio-link .caption .caption-content h4 {
+#obres .portfolio-item .portfolio-link .caption .caption-content h3,
+#obres .portfolio-item .portfolio-link .caption .caption-content h4 {
     margin: 0;
 }
 
-#portfoli * {
+#obres * {
     z-index: 2;
 }
 .portfolio-modal .close-modal {
@@ -503,12 +503,12 @@ hr {
     transform: rotate(90deg);
 }
 
-#portfoli blockquote footer, #serveis blockquote footer {
+#obres blockquote footer, #fundacioiluro blockquote footer {
   color: #ffffff;
 }
 
 @media(min-width:767px) {
-    #portfoli .portfolio-item {
+    #obres .portfolio-item {
         margin: 0 0 30px;
     }
 }
