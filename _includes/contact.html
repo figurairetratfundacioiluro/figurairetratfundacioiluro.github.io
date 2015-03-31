@@ -12,6 +12,25 @@
                             <p><a href="mailto:{{ place.email }}" title="Correu-e {{ place.email }}" rel="external" class="btn btn-default btn-lg"><i class="fa fa-envelope fa-fw"></i> <span class="network-name">Correu-e</span></a>
                             </p>
                             <p><small><strong>Adreça:</strong> {{ place.address }}</small></p>
+                            <hr />
+                            <h3>Rserva el teu exemplar del catàleg de l'exposició</h3>
+                            <hr />
+                            {% assign work_data = site.data.cataleg | where:"id", 1 %}
+                            {% assign work = work_data | first %}
+                            <figure>
+                              <div class="padding-artwork-container">
+                                <div class="embed-container embed-container_{{ work.aspect_ratio }}">
+                                  <core-image sizing="cover" class="core-image-size" preload fade src="{{ work.featured_src }}"></core-image> 
+                                </div>
+                              </div>
+                              <figcaption>
+                                <p><small><strong>{{ work.title }}</strong></small></p>
+                              </figcaption>
+                            </figure>
+                            <hr />
+                            <p><a href="mailto:{{ place.email }}?subject=Reserva exemplar del catàleg exposició la Figura i el Retrat en el fons d'art de la Fundació Iluro" title="Correu-e {{ place.email }}" rel="external" class="btn btn-default btn-lg"><i class="fa fa-paper-plane fa-fw"></i> <span class="network-name">Reserva</span></a>
+                            </p>
+                            <hr />
                         </div>
                     </div>
                 </div>
